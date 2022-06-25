@@ -12,18 +12,18 @@ For more information about the dataset: [VBA_Challenge](/VBA_Challenge.xlsm)
  '1a) Create a ticker Index
         tickerIndex = 0
 
-    '1b) Create three output arrays
+ '1b) Create three output arrays
         Dim tickerVolumes(12) As Long
         Dim tickerStartingPrices(12) As Single
         Dim tickerEndingPrices(12) As Single
        
     
-    ''2a) Create a for loop to initialize the tickerVolumes to zero.
+ ''2a) Create a for loop to initialize the tickerVolumes to zero.
         For j = 0 To 11
         tickerVolumes(tickerIndex) = 0
         Next j
         
-    ''2b) Loop over all the rows in the spreadsheet.
+ ''2b) Loop over all the rows in the spreadsheet.
     For i = 2 To RowCount
     
         '3a) Increase volume for current ticker
@@ -44,7 +44,7 @@ For more information about the dataset: [VBA_Challenge](/VBA_Challenge.xlsm)
 
                tickerEndingPrices(tickerIndex) = Cells(i, 6).Value
             
-            '3d Increase the tickerIndex.
+        '3d) Increase the tickerIndex.
             tickerIndex = tickerIndex + 1
             
             End If
