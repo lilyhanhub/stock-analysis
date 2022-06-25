@@ -1,7 +1,7 @@
 # stock-analysis
-VBA application on stocks analysis
+
 ## Overview of Projet
-Explain the purpose/background of this analysis
+Explain the purpose/background of this analysis. VBA application on stocks analysis
 
 
 
