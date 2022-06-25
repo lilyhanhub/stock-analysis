@@ -1,8 +1,7 @@
 # Stock Analysis with Excel VBA
 
-## Overview of Projet
-Explain the purpose/background of this analysis. VBA application on stocks analysis
-
+## Overview of Project
+The purpose of the project is to refactor the VBA script that I prepared for Steve's stock analysis earlier, so he can analyze the entire stock market over the last few years in a short execution time. As refactoring is a key part of the coding process, it will help the code more efficient by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. 
 
 
 ## Results
