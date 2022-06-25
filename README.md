@@ -1,4 +1,4 @@
-# stock-analysis
+# Stock Analysis with Excel VBA
 
 ## Overview of Projet
 Explain the purpose/background of this analysis. VBA application on stocks analysis
