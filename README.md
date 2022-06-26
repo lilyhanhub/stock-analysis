@@ -7,7 +7,7 @@ The raw dataset comes with two worksheets of 12 stocks spanning two consecutive 
 For more information about the dataset: [VBA_Challenge](/VBA_Challenge.xlsm)
 
 ## Results
-> Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script. The analysis is well described with screenshots and code
+Below are the steps and descriptions of the refactored code.   
 ```
  '1a) Create a ticker Index
         tickerIndex = 0
