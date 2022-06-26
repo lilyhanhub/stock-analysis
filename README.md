@@ -60,7 +60,11 @@ Below are the steps and descriptions of the refactored code.
         Cells(4 + i, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) - 1
         
     Next i
-  ```
+```
+
+### Comparison of stock performance between 2017 and 2018
+For the twelve stocks Steve selected for analysis, there's a much higher average return in 2017, +67.5% compared to -8.5% in 2018. There were two stocks that performed the best in both years: ENPH and RUN, followed by two additional stocks with overall more positive returns: SEDG and VSLR. 
+
 #### Refactored results for 2017
 ![Refactored 2017](/Resources/2017all_pics.png)
 #### Original results for 2017
