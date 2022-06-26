@@ -64,6 +64,8 @@ Below are the steps and descriptions of the refactored code.
 
 ### Comparison of stock performance between 2017 and 2018
 For the twelve stocks Steve selected for analysis, there's a much higher average return in 2017, +67.5% compared to -8.5% in 2018. There were two stocks that performed the best in both years: ENPH and RUN, followed by two additional stocks with overall more positive returns: SEDG and VSLR. 
+### Comparison of execution time between the original script and the refactored script
+The refactored code successfully made the VBA scripts run much faster. The execution time significantly decreased from 0.53s to 0.09s (2017) and from 0.54s to 0.10s (2018). 
 
 #### Refactored results for 2017
 ![Refactored 2017](/Resources/2017all_pics.png)
