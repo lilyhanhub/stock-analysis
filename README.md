@@ -61,7 +61,8 @@ For more information about the dataset: [VBA_Challenge](/VBA_Challenge.xlsm)
         
     Next i
   ```
-
+Refactored results for 2017
+![Refactored 2017](/Resources/2017all_pics.png)
 ## Summary 
 1. What are the advantages or disadvantages of refactoring code?
 
