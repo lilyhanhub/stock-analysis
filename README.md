@@ -63,6 +63,12 @@ For more information about the dataset: [VBA_Challenge](/VBA_Challenge.xlsm)
   ```
 Refactored results for 2017
 ![Refactored 2017](/Resources/2017all_pics.png)
+Original script results for 2017
+![Original 2017](/Resources/2017all_pics_original.png)
+Refactored results for 2018
+![Refactored 2018](/Resources/2018all_pics.png)
+Original script results for 2018
+![Original 2018](/Resources/2018all_pics_original.png)
 ## Summary 
 1. What are the advantages or disadvantages of refactoring code?
 
