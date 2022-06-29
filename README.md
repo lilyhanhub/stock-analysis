@@ -7,7 +7,7 @@ The raw dataset comes with two worksheets of 12 stocks spanning two consecutive 
 For more information about the dataset: [VBA_Challenge](/VBA_Challenge.xlsm)
 
 ## Results
-Below are the steps and comments of the refactored code.   
+Below are the snippets of the refactored code.   
 ```
  '1a) Create a ticker Index
         tickerIndex = 0
